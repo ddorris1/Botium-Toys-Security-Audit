@@ -1,6 +1,6 @@
 # Controls and compliance checklist
 
-To complete the controls assessment checklist, refer to the information provided in the [scope, goals, and risk assessment report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc). For more details about each control, including the type and purpose, refer to the [control categories](https://docs.google.com/document/d/1btezuy_bMKWoK8pd97ZuzdWB9y6au_zfkrpkfVf8ktI/template/preview) document.
+To complete the controls assessment checklist, refer to the information provided in the [scope, goals, and risk assessment report](https://github.com/ddorris1/Botium-Toys-Security-Audit/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report.md). For more details about each control, including the type and purpose, refer to the [control categories](https://docs.google.com/document/d/1btezuy_bMKWoK8pd97ZuzdWB9y6au_zfkrpkfVf8ktI/template/preview) document.
 
 Then, select “yes” or “no” to answer the question: *Does Botium Toys currently have this control in place?* 
 

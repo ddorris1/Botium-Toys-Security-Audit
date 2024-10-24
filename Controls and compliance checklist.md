@@ -66,7 +66,7 @@ This section is *optional* and can be used to provide a summary of recommendatio
 
 Administrative/Managerial Controls: 
 
-|   Administrative/Managerial Controls   |
+|  Administrative/Managerial Controls |  |  |
 | ----- | :---- | :---- |
 | **Control Name** | **Control Type** | **Control Purpose** |
 | Least Privilege | Preventative | Reduce risk and overall impact of malicious insider or compromised accounts |

@@ -8,7 +8,7 @@ Then, select “yes” or “no” to answer the question: *Does Botium Toys cur
 
 |   Yes |     No | Control |
 | ----- | ----- | :---- |
-|  | heavy_check_mark | Least Privilege |
+|  | &check; | Least Privilege |
 |  |  | Disaster recovery plans |
 |  |  | Password policies |
 |  |  | Separation of duties |

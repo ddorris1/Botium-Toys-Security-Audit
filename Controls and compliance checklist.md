@@ -64,7 +64,6 @@ This section is *optional* and can be used to provide a summary of recommendatio
 
 **Recommendations (optional):** We recommend the following Admin/Managerial and Technical Controls to reduce risks to assets and improve Botium Toys’ security posture. 
 
-**Administrative/Managerial Controls:** 
 | Administrative/Managerial Controls |  |  |
 | ----- | :---- | :---- |
 | **Control Name** | **Control Type** | **Control Purpose** |
